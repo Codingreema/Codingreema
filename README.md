@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codingreema
 - 👀 I’m interested in iOS developer
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning Animations!
 - 📫 How to reach me X (twitter) @RimahAldaghfaq
 
 <!---
