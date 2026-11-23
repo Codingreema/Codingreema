@@ -15,9 +15,9 @@ I build iOS apps that feel simple on the surface and are smart underneath, mixin
 
 ### 🛠 Tech stack
 
-**iOS:** Swift · SwiftUI · UIKit · Core ML · Create ML · Vision · CloudKit · Xcode · Human Interface Guidelines
-**AI & data:** Python · Machine Learning · OpenAI API
-**Tools:** Git/GitHub · Figma
+- **iOS:** Swift · SwiftUI · UIKit · Core ML · Create ML · Vision · CloudKit · Xcode · Human Interface Guidelines
+- **AI & data:** Python · Machine Learning · OpenAI API
+- **Tools:** Git/GitHub · Figma
 
 ### 🚀 Featured projects
 
